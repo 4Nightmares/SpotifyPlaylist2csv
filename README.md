@@ -1,2 +1,2 @@
 # SpotifyPlaylist2csv
- Convert a Sportify Playlist URL to a csv list
+ Convert a Spotify Playlist URL to a csv list
